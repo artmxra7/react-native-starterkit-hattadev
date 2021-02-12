@@ -19,11 +19,6 @@ and redux persist. Uses latest version of react-navigation (v5.9)
 
 This Architecture is optimized for large scale projects. If you are beginner who just started using react native, I would suggest starting with a type based architecture and slowly switching to this architecture.
 
-## Projects using this BoilerPlate
-
-- [MediBuddy](https://github.com/victorkvarghese/MediBuddy)
-- [react-native-messenger](https://github.com/victorkvarghese/react-native-messenger)
-- [rn-coffee](https://github.com/victorkvarghese/rn-coffee)
 
 ## Features
 - [Typescript](https://www.typescriptlang.org/) support.
