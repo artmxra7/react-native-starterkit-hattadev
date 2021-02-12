@@ -19,8 +19,6 @@ and redux persist. Uses latest version of react-navigation (v5.9)
 
 This Architecture is optimized for large scale projects. If you are beginner who just started using react native, I would suggest starting with a type based architecture and slowly switching to this architecture.
 
-[React-Native-Feature-BoilerPlate](https://github.com/victorkvarghese/react-native-feature-boilerplate)
-
 ## Projects using this BoilerPlate
 
 - [MediBuddy](https://github.com/victorkvarghese/MediBuddy)
@@ -52,7 +50,7 @@ This Architecture is optimized for large scale projects. If you are beginner who
 
 ## Getting Started
 
-1. Clone this repo, `git clone https://github.com/victorkvarghese/react-native-boilerplate.git <your project name>`
+1. Clone this repo, `git clone https://github.com/artmxra7/react-native-starterkit-hattadev.git <your project name>`
 2. Go to project's root directory, `cd <your project name>`
 3. Remove `.git` folder, `rm -rf .git`
 4. Use [React Native Rename](https://github.com/junedomingo/react-native-rename) to update project name `$ npx react-native-rename <newName>`
