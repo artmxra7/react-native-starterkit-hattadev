@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "hattadev-tvOS.app"
-               BlueprintName = "hattadev-tvOS"
-               ReferencedContainer = "container:hattadev.xcodeproj">
+               BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+               BuildableName = "RNBoilerPlate.app"
+               BlueprintName = "RNBoilerPlate"
+               ReferencedContainer = "container:RNBoilerPlate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "hattadev-tvOSTests.xctest"
-               BlueprintName = "hattadev-tvOSTests"
-               ReferencedContainer = "container:hattadev.xcodeproj">
+               BlueprintIdentifier = "00E356ED1AD99517003FC87E"
+               BuildableName = "RNBoilerPlateTests.xctest"
+               BlueprintName = "RNBoilerPlateTests"
+               ReferencedContainer = "container:RNBoilerPlate.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -54,10 +54,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "hattadev-tvOS.app"
-            BlueprintName = "hattadev-tvOS"
-            ReferencedContainer = "container:hattadev.xcodeproj">
+            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            BuildableName = "RNBoilerPlate.app"
+            BlueprintName = "RNBoilerPlate"
+            ReferencedContainer = "container:RNBoilerPlate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -71,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "hattadev-tvOS.app"
-            BlueprintName = "hattadev-tvOS"
-            ReferencedContainer = "container:hattadev.xcodeproj">
+            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            BuildableName = "RNBoilerPlate.app"
+            BlueprintName = "RNBoilerPlate"
+            ReferencedContainer = "container:RNBoilerPlate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
